@@ -1,0 +1,14 @@
+.\objects\mpu6050.o: MPU6050.c
+.\objects\mpu6050.o: MPU6050.h
+.\objects\mpu6050.o: HAL_MPU6050.h
+.\objects\mpu6050.o: J:\MDK_ARM\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\mpu6050.o: .\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\objects\mpu6050.o: J:\MDK_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpu6050.o: J:\MDK_ARM\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\mpu6050.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_conf.h
+.\objects\mpu6050.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_gpio.h
+.\objects\mpu6050.o: J:\MDK_ARM\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\mpu6050.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_rcc.h
+.\objects\mpu6050.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_usart.h
+.\objects\mpu6050.o: .\Libraries\StdPeriph_Lib\inc\misc.h
+.\objects\mpu6050.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_i2c.h

@@ -1,0 +1,11 @@
+.\objects\system_stm32f10x.o: Libraries\CMSIS\system_stm32f10x.c
+.\objects\system_stm32f10x.o: Libraries\CMSIS\stm32f10x.h
+.\objects\system_stm32f10x.o: Libraries\CMSIS\core_cm3.h
+.\objects\system_stm32f10x.o: J:\MDK_ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_stm32f10x.o: Libraries\CMSIS\system_stm32f10x.h
+.\objects\system_stm32f10x.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_conf.h
+.\objects\system_stm32f10x.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_gpio.h
+.\objects\system_stm32f10x.o: J:\MDK_ARM\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\system_stm32f10x.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_rcc.h
+.\objects\system_stm32f10x.o: .\Libraries\StdPeriph_Lib\inc\stm32f10x_usart.h
+.\objects\system_stm32f10x.o: .\Libraries\StdPeriph_Lib\inc\misc.h
